@@ -19,9 +19,9 @@ Makes a random grid of numbers with shape (4, 6).
 
 # Question 2
 Comparing Loss Functions: MSE vs. Categorical Cross-Entropy:
-This code compares two loss functions:
--Mean Squared Error (MSE): Measures the average squared difference between true and predicted values.
--Categorical Cross-Entropy (CCE): Measures error for predicted probabilities in multiple classes.
+*This code compares two loss functions:
+  Mean Squared Error (MSE): Measures the average squared difference between true and predicted values.
+  Categorical Cross-Entropy (CCE): Measures error for predicted probabilities in multiple classes.
 
 Steps:
 1.Define True Values and Predictions
