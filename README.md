@@ -19,9 +19,9 @@ Makes a random grid of numbers with shape (4, 6).
 
 # Question 2
 Comparing Loss Functions: MSE vs. Categorical Cross-Entropy:
-This code compares two loss functions:
-Mean Squared Error (MSE): Measures the average squared difference between true and predicted values.
-Categorical Cross-Entropy (CCE): Measures error for predicted probabilities in multiple classes.
+* This code compares two loss functions:
+* Mean Squared Error (MSE): Measures the average squared difference between true and predicted values.
+* Categorical Cross-Entropy (CCE): Measures error for predicted probabilities in multiple classes.
 
 1.Define True Values and Predictions
   y_true = [0, 1, 0]
@@ -76,7 +76,7 @@ Steps Involved:
 
 # Question 4
 Train a Neural Network with TensorBoard Logging:
-*This code trains a simple neural network on the MNIST dataset and logs the training process to TensorBoard for analysis.
+* This code trains a simple neural network on the MNIST dataset and logs the training process to TensorBoard for analysis.
 
 Steps Involved:
 1.Import Libraries:
