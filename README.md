@@ -18,10 +18,10 @@ Makes a random grid of numbers with shape (4, 6).
   Adds the two tensors together.
 
 # Question 2
-Comparing Loss Functions: MSE vs. Categorical Cross-Entropy
+Comparing Loss Functions: MSE vs. Categorical Cross-Entropy:
 This code compares two loss functions:
-Mean Squared Error (MSE): Measures the average squared difference between true and predicted values.
-Categorical Cross-Entropy (CCE): Measures error for predicted probabilities in multiple classes.
+-Mean Squared Error (MSE): Measures the average squared difference between true and predicted values.
+-Categorical Cross-Entropy (CCE): Measures error for predicted probabilities in multiple classes.
 
 Steps:
 1.Define True Values and Predictions
@@ -45,8 +45,8 @@ Steps:
   Small changes in predictions affect MSE and CCE differently.
 
 # Question 3
-Training MNIST Model with Different Optimizers: SGD vs. Adam
-This code compares the performance of two optimizers—SGD and Adam—on the MNIST dataset.
+Training MNIST Model with Different Optimizers: SGD vs. Adam:
+* This code compares the performance of two optimizers—SGD and Adam—on the MNIST dataset.
 
 Steps Involved:
 1.Load the MNIST Dataset:
@@ -76,8 +76,8 @@ Steps Involved:
   Adam is typically faster and shows better performance compared to SGD.
 
 # Question 4
-Train a Neural Network with TensorBoard Logging
-This code trains a simple neural network on the MNIST dataset and logs the training process to TensorBoard for analysis.
+Train a Neural Network with TensorBoard Logging:
+*This code trains a simple neural network on the MNIST dataset and logs the training process to TensorBoard for analysis.
 
 Steps Involved:
 1.Import Libraries:
