@@ -77,7 +77,6 @@ Training MNIST Model with Different Optimizers: SGD vs. Adam:
 Train a Neural Network with TensorBoard Logging:
 * This code trains a simple neural network on the MNIST dataset and logs the training process to TensorBoard for analysis.
 
-Steps Involved:
 1. Import Libraries:
    Import necessary libraries like TensorFlow, Keras, and MNIST dataset.
    Load and Preprocess MNIST Data:
